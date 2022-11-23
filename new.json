@@ -1,7 +1,7 @@
 {
 "first name": "Ilya",
 "last name": "Fedotov",
-"age": "24",
-"pets": "0",
-"salary": "1500"
+"age": 24,
+"pets": 0,
+"salary": 1500
 }
