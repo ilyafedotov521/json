@@ -1,0 +1,18 @@
+{
+"Test-case": "basic",
+"Check-list": "basic",
+"Bug- Reporting": "basic",
+"smoke": "basic",
+"critical path": "basic",
+"regression":
+"Web": "basic",
+"Mobile": "basic",
+"Test-disain": "basic",
+"HTTP/HTTPS": "basic",
+"DevTools": "basic",
+"Test API": "basic",
+"Postman": "basic",
+"SQL": "basic",
+"JavaScript": "basic",
+"Terminal": "basic"
+}
