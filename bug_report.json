@@ -1,0 +1,13 @@
+{
+"№": 1,
+"Title": "зависает приложение которое находилось в свернутом режиме больше 5 мин",
+"Environment": "Prod iPhone SE 2020 15.6.1 buld 3.0006.793",
+"Precondition": "1. открыть Investemate",
+"Steps": "1. Свернуть приложение 2. Подождать 5 мин",
+"Severity": "Major",
+"Priority": "Medium",
+"Expected Result": "приложение не зависает которое находилось в свернутом режиме больше 5 мин",
+"Actual Result": "зависает приложение которое находилось в свернутом режиме больше 5 мин",
+"attachment": "https://drive.google.com/file/d/1r5XAGz8_MYhvRZotgKfA3EdXDoIRXMVT/view?usp=sharing"
+}
+
